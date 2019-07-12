@@ -1,0 +1,8 @@
+# created: 12.07.2019
+# updated: 12.07.2019
+
+termcapinfo xterm|xterms|xs|rxvt ti@:te
+
+caption always "%{rw} * | %H * $LOGNAME | %{bw}%c %D | %{-}%-Lw%{rw}%50>%{rW}%n%f* %t %{-}%+Lw%<"@
+
+defshell -bash
