@@ -3,7 +3,6 @@
 # COLORS && FONTS
 #LS_COLORS='di=0;35' ; export LS_COLORS
 
-# NOT SURE IF NEEDED BUT DOESNT HURT
 # Source global definitions
 if [ -f /etc/bashrc ]; then
 	. /etc/bashrc
